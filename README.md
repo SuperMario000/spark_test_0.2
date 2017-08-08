@@ -28,8 +28,8 @@ Clustering (聚类)，简单地说就是把相似的东西分到一组，
 如果通过预处理使得数据满足分类算法的要求，则代价非常大，这时候可以考虑使用聚类算法。
 
 常用的聚类算法包括:
-K均值(K-mensclustering)聚类(最典型)
-属于划分法K中心点（K-MEDOIDS）算法、CLARANS算法；
-属于层次法的BIRCH算法、CURE算法、CHAMELEON算法等；
-基于密度的方法：DBSCAN算法、OPTICS算法、DENCLUE算法等；
-基于网格的方法：STING算法、CLIQUE算法、WAVE-CLUSTER算法；基于模型的方法)。
+    K均值(K-mensclustering)聚类(最典型)
+    属于划分法K中心点（K-MEDOIDS）算法、CLARANS算法；
+    属于层次法的BIRCH算法、CURE算法、CHAMELEON算法等；
+    基于密度的方法：DBSCAN算法、OPTICS算法、DENCLUE算法等；
+    基于网格的方法：STING算法、CLIQUE算法、WAVE-CLUSTER算法；基于模型的方法)。

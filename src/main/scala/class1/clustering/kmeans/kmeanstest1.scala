@@ -1,4 +1,4 @@
-package main.scala.class1.classification.kmeans
+package main.scala.class1.clustering.kmeans
 
 import org.apache.log4j.{Level, Logger}
 import org.apache.spark.mllib.clustering.KMeans
