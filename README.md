@@ -33,3 +33,9 @@ Clustering (聚类)，简单地说就是把相似的东西分到一组，
     属于层次法的BIRCH算法、CURE算法、CHAMELEON算法等；
     基于密度的方法：DBSCAN算法、OPTICS算法、DENCLUE算法等；
     基于网格的方法：STING算法、CLIQUE算法、WAVE-CLUSTER算法；基于模型的方法)。
+    
+3.其他
+各种机器学习的应用场景分别是什么
+https://www.zhihu.com/question/26726794/answer/33813531
+从决策树学习谈到贝叶斯分类算法、EM、HMM
+http://blog.csdn.net/tarim/article/details/41345341
