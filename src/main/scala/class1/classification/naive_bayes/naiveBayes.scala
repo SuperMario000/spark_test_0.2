@@ -1,4 +1,4 @@
-package main.scala.class1.ml.naive_bayes
+package main.scala.class1.classification.naive_bayes
 
 import org.apache.spark.mllib.classification.NaiveBayes
 import org.apache.spark.mllib.linalg.Vectors

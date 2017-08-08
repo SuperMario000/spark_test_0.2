@@ -1,4 +1,4 @@
-package main.scala.class1.ml.regression
+package main.scala.class1.classification.regression
 
 import org.apache.log4j.{Level, Logger}
 import org.apache.spark.mllib.linalg.Vectors

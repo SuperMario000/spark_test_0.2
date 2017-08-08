@@ -1,4 +1,4 @@
-package main.scala.class1.ml.regression
+package main.scala.class1.classification.regression
 
 import breeze.linalg.sum
 import org.apache.log4j.{Level, Logger}
